@@ -2,7 +2,7 @@
   "name": "weather-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Linacodework.github.io/weather-app",
+  "homepage": "homepage": "https://linacodework.github.io/Lina-Weather-APP/",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
