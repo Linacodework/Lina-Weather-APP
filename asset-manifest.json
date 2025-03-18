@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/weather-app/static/css/main.ee94051f.css",
-    "main.js": "/weather-app/static/js/main.3f13bd7c.js",
-    "static/js/453.0ccb7fb4.chunk.js": "/weather-app/static/js/453.0ccb7fb4.chunk.js",
-    "index.html": "/weather-app/index.html",
-    "main.ee94051f.css.map": "/weather-app/static/css/main.ee94051f.css.map",
-    "main.3f13bd7c.js.map": "/weather-app/static/js/main.3f13bd7c.js.map",
-    "453.0ccb7fb4.chunk.js.map": "/weather-app/static/js/453.0ccb7fb4.chunk.js.map"
+    "main.css": "/Lina-Weather-APP/static/css/main.ee94051f.css",
+    "main.js": "/Lina-Weather-APP/static/js/main.8cd5a77c.js",
+    "static/js/453.0ccb7fb4.chunk.js": "/Lina-Weather-APP/static/js/453.0ccb7fb4.chunk.js",
+    "index.html": "/Lina-Weather-APP/index.html",
+    "main.ee94051f.css.map": "/Lina-Weather-APP/static/css/main.ee94051f.css.map",
+    "main.8cd5a77c.js.map": "/Lina-Weather-APP/static/js/main.8cd5a77c.js.map",
+    "453.0ccb7fb4.chunk.js.map": "/Lina-Weather-APP/static/js/453.0ccb7fb4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ee94051f.css",
-    "static/js/main.3f13bd7c.js"
+    "static/js/main.8cd5a77c.js"
   ]
 }
