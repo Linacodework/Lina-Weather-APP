@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Lina-Weather-APP/static/css/main.ee94051f.css",
-    "main.js": "/Lina-Weather-APP/static/js/main.8cd5a77c.js",
+    "main.js": "/Lina-Weather-APP/static/js/main.3f3334f9.js",
     "static/js/453.0ccb7fb4.chunk.js": "/Lina-Weather-APP/static/js/453.0ccb7fb4.chunk.js",
     "index.html": "/Lina-Weather-APP/index.html",
     "main.ee94051f.css.map": "/Lina-Weather-APP/static/css/main.ee94051f.css.map",
-    "main.8cd5a77c.js.map": "/Lina-Weather-APP/static/js/main.8cd5a77c.js.map",
+    "main.3f3334f9.js.map": "/Lina-Weather-APP/static/js/main.3f3334f9.js.map",
     "453.0ccb7fb4.chunk.js.map": "/Lina-Weather-APP/static/js/453.0ccb7fb4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ee94051f.css",
-    "static/js/main.8cd5a77c.js"
+    "static/js/main.3f3334f9.js"
   ]
 }
